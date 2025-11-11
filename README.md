@@ -10,5 +10,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2> Where to find me</h2>
-<p><a target="_blank" href="https://t.me/mspro72" style="display: inline-block;"><img src="https://cdn1.telesco.pe/file/ep_aOdIyZX6c5CVFM6BRGPz7py2eqg480FcX68ywalvCNteXGfutESPBcdDtFKE15-pp14svfMM0uJ7Q6c-dZjqHUlMTATuz4WYMTxFzlImYr1VS2awkZ6vFQQJr9fDAg6rFBCPC7geqUUbFSM8_OgBdxGfEj95CqyJ02tDYvNwMPDNUI1AFCAwWPRyFtspdN-exh8yzwkv2wdt1_ZRc5C1YUMdvattqkrNa7AietYCcy99WCgRthcVY31JfK2OabHcWElKQmbm0ypKt_mwdLrrq2VX1ajz61Ud3GII1wmQNAWUVmZAzZ6kGD9YUcy4fC2gr3opDW8EaxA1Dv1RtGw.jpg
-" alt="Telegram" /></a></p>
+<p><a target="_blank" href="https://t.me/mspro72" style="display: inline-block;"><img src="./Telegram.png" alt="Telegram" /></a></p>
