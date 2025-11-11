@@ -10,4 +10,4 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2> Where to find me</h2>
-<p><a target="_blank" href="https://t.me/mspro72" style="display: inline-block;"><img src="./Telegram.png" alt="Telegram" /></a></p>
+<p><a target="_blank" href="https://t.me/mspro72" style="display: inline-block;"><img src="./Telegram.png" alt="Telegram" height="42" width="42" /></a></p>
